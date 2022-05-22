@@ -1,0 +1,25 @@
+   
+body {
+    padding: 0 auto;
+    margin: 0 auto;
+    color: black;
+    background-color: #ffeea2;
+}
+
+p {
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+input {
+    display: block;
+    border-color: rgb(177, 174, 170);
+    border-radius: 5px;
+    border-width: 3px;
+    padding: 10px;
+
+}
+
+button {
+    background-color: #3fc5ff;
+}
